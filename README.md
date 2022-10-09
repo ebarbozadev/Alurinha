@@ -1,7 +1,7 @@
 <hr>
 
 <main>
-    <h1 align="center">Projeto Alura Store</h1>
+    <h1 align="center">Projeto Alurinha</h1>
     <p align="center" style="font-size: 1.25rem;">
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
@@ -20,16 +20,16 @@
     <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/css-grid-layout">CSS Grid: simplificando layouts</a> com <b>auxílio</b> do instrutor <b>Matheus Castiglioni</b>.</p>
     <p style="text-align: justify;">É um site que apresenta jogos, aplicativos, plataformas e lançamentos que estão em alta.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
-    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-grid-layout">aqui</a></p>
+    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-grid-layout">aqui</a>.</p>
 </section>
 
 <section id="tabela-de-conteudo">
     <h2 style="font-size: 1.25rem;">Tabela de Conteúdo</h2>
-    <ul>
+    <ul style="text-align: justify;" align="justify">
         <li>Especificação flexible box para posicionar seus elementos na página;</li>
         <li>Diversas propriedades do flexbox e como usá-las;</li>
         <li>Propriedades do flexbox substituem <code>float</code>, <code>inline</code> e <code>inline-block</code>;</li>
-        <li>Site responsivo com flexbox;</li>
+        <li>Site responsivo com flexbox.</li>
     </ul>
 </section>
 
@@ -37,7 +37,7 @@
     <h2 style="font-size: 1.25rem;">Tecnologias</h2>
     <ul>
         <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>;</li>
-        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>;</li>
+        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>.</li>
     </ul>
 </section>
 
