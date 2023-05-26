@@ -16,7 +16,7 @@
 
 <section id="sobre">
     <h2 style="font-size: 1.25rem;">Sobre</h2>
-    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/posicione-elementos-com-flexbox">Flexbox: posicione elementos na tela</a> com <b>auxílio</b> do instrutor <b>Matheus Castiglioni</b>.</p>
+    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/posicione-elementos-com-flexbox">Flexbox: Posicione Elementos na Tela</a> com <b>auxílio</b> do instrutor <b>Yuri Padilha</b>.</p>
     <p style="text-align: justify;">É um site que apresenta jogos, aplicativos, plataformas e lançamentos que estão em alta.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
     <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://alurinha.ebarbozadev.vercel.app">aqui</a>.</p>
