@@ -42,5 +42,5 @@
 
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
-    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/81ef9948-78d5-4483-b4e8-5fd5f8375412">aqui</a>.</p>
+    <p style="text-align: justify;">Veja o certificado <a href="https://cursos.alura.com.br/certificate/81ef9948-78d5-4483-b4e8-5fd5f8375412">aqui</a>.</p>
 </section>
